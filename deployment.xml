@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <package xmlns="http://www.zend.com/server/deployment-descriptor/1.0" version="1.0">
     <name>ExampleProject</name>
     <version>
         <release>1.0.0</release>
     </version>
     <appdir>data</appdir>
-    <docroot>public</docroot>
+    <docroot>data/public</docroot>
     <dependencies>
     <required>
       <php>
